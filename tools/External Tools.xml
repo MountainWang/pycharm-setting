@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="yapf" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Python37\Scripts\yapf.exe" />
+      <option name="PARAMETERS" value="-i --recursive --style D:\yapf_style.cfg $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="D:\Python37\Scripts\pylint.exe" />
+      <option name="PARAMETERS" value="--rcfile=d:\google_pylint.rc --init-hook &quot;import sys;sys.path.append('..');sys.path.append('.')&quot; $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
