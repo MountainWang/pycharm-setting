@@ -4,7 +4,7 @@
     <property name="created">2019-02-26T19:19:11</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-26T19:26:46</property>
+    <property name="modified">2019-03-19T17:11:28</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="YaHei Consolas Hybrid" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="CONSOLE_FONT_NAME" value="Inziu Iosevka SC" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
@@ -1441,7 +1441,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
