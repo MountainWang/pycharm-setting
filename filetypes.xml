@@ -6,6 +6,7 @@
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerefile" type="PLAIN_TEXT" />
       <mapping pattern="dockerefile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
